@@ -31,5 +31,16 @@ Lecture 2 HTML BASICS
 
 W3C make the rules for html and work with a lot of browsers. They decide the format of html.
 
+    Forms have hiddent inputs 
+     <input type="hidden" name="somename" value ="some value">
+        users cannot see this| used to allow server to implant data ni the html page then read those data when form is
+        subbmited without the user noticing 
+        
 
-added new changes
+ <input type="text" placeholder="text" pattern ="is what the input can take [a-z] [0-9]">
+
+
+    <datalist> </datalist> is a drop down menu that autocompletes you text so typing a letter shows words that could match what 
+    you are typing
+
+    use post in forms with sensitive data becuase it doesnt show in the url 
