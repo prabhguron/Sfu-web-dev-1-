@@ -44,3 +44,8 @@ W3C make the rules for html and work with a lot of browsers. They decide the for
     you are typing
 
     use post in forms with sensitive data becuase it doesnt show in the url 
+
+
+    Css 
+
+    can be implemented using styles in html or a seperate sheet such as stylessheet.css then you have to link it in your html file
