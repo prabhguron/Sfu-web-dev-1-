@@ -49,3 +49,6 @@ W3C make the rules for html and work with a lot of browsers. They decide the for
     Css 
 
     can be implemented using styles in html or a seperate sheet such as stylessheet.css then you have to link it in your html file
+
+
+    you would use something like display none if you want to change something dynamically 
