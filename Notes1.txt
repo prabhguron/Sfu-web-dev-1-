@@ -52,3 +52,9 @@ W3C make the rules for html and work with a lot of browsers. They decide the for
 
 
     you would use something like display none if you want to change something dynamically 
+
+
+    Javascript
+
+
+    
